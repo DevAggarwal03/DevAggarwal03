@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DevAggarwal03
-- 👀 I’m interested in blockchain technology
+- 👀 I’m interested in web development
+- Long term goals : blockchain technology
 - 🌱 I’m currently learning javascript 
 - 📫 Reach me via my email id devaggarwal1009@gmail.com
 
