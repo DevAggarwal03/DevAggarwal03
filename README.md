@@ -1,7 +1,6 @@
 <h1>Hello I am Dev Aggarwal</h1>
 <h3>AboutMe:<br>
-<p>I am pursuing my bachelor's in Computer Science from NSUT Dwarka, Delhi. I just started learning Web Development and hope to be a part of Web3 space in the future. Started learning some basics of Blockchain, solidity, etc.<br>
-Currently, I am posting my daily progress or what I learn in a day about tech on my Twitter page doing my own variety of 100DaysOfCode challenge just to be consistent and try to upskill myself daily</p></h3>
+<p>I am pursuing my bachelor's in Computer Science from NSUT Dwarka, Delhi. I just started learning Web Development and hope to be a part of Web3 space in the future. Started learning some basics of Blockchain, solidity, etc.</p></h3>
 
 
 <h2>You can find me on:<br>
